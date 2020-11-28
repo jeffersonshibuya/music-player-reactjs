@@ -1,4 +1,4 @@
-import React, {  ChangeEvent, useCallback, useEffect } from 'react';
+import React, {  ChangeEvent, useCallback } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faAngleLeft, faAngleRight, faPause, faPlay } from '@fortawesome/free-solid-svg-icons'
 import SongProps from '../dto/Song';
